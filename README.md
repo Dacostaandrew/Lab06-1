@@ -4,7 +4,7 @@ In this lab, we will write a binary search tree implementation of
 an associative array (also known as dictionary). As in the previous
 lab, you created an associative array to store keys and values
 with a simple singly linked-list implementation. But you will use
-a binary search tree.
+a binary search tree this time.
 
 Use the following definition of a tree node:
 
